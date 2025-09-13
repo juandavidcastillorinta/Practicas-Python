@@ -67,7 +67,7 @@ print(texto.capitalize())  # "Hola mundo"
 print(texto.title())       # "Hola Mundo"
 
 # 11. casefold()
-# Convierte todo el texto a minúsculas, pero de forma más agresiva que lower(),
+# Convierte tod.o el texto a minúsculas, pero de forma más agresiva que lower(),
 # útil para comparaciones sin importar mayúsculas/minúsculas en distintos idiomas.
 texto = "PYThOn"
 print(texto.casefold())  # "python"
